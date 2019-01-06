@@ -174,7 +174,7 @@ header.masthead {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: 1490px;
+  background-size: cover;
 }
 
 header.masthead hr {
